@@ -1,0 +1,24 @@
+body {
+    background-color: cornflowerblue;
+}
+h1 {
+    color: darkblue;
+}
+h1 {
+    font-family:Helvetica;
+}
+.about {
+    background-color:dodgerblue
+}
+.about {
+    color:gainsboro
+}
+.contact {
+    background-color: hotpink;
+}
+.contact {
+    color: indigo;
+}
+.contact {
+    font-family: Arial
+}
